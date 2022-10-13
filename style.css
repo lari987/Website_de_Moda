@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Gotu&family=Montserrat:wght@200&family=Noto+Serif+Gujarati:wght@200&family=Open+Sans:wght@300&family=Quicksand:wght@300&display=swap");
+
+h1, h2{
+    font-family: 'Gotu';
+    font-weight: 700;
+}
+
+p,li, a, small{
+    font-size: 16px;
+    font-family:'Montserrat';
+    font-weight: 600;
+}
+mark{
+    background-color: rgb(236, 158, 190);
+}
